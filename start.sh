@@ -1,7 +1,6 @@
 #!/bin/bash
-#Code:YamanEfkar
-#İnstagram: @yamanefkarr
-#Youtube : Yamanefkar
+#Code:EmreGundogdu
+#İnstagram: @emre_gnddu
 echo -e '\033[31;40;1m 
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
@@ -9,10 +8,9 @@ echo -e '\033[31;40;1m
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
 
-      \e[35m      ☠         Code  : YamanEfkar     ☠
-	  \e[34m☠	     Github : YamanEfkar       ☠
-	 \e[33m☠  	    Youtube : YamanEfkar        ☠
-	\e[32m☠ 	   İnstagram : @yamanefkarr      ☠
+      \e[35m      ☠         Code  : EmreGundogdu     ☠
+	  \e[34m☠	     Github : razeka   ☠   
+	\e[32m☠ 	   İnstagram : @emre_gnddu      ☠
 	
 	\e[36m 	 ☾★ ☾★ Türk Siber Timi ☾★ ☾★	
 
