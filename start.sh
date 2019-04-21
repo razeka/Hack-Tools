@@ -1,7 +1,7 @@
 #!/bin/bash
 #Code:Emre
 #İnstagram: @emre_gnddu
-echo -e '\033[31;40;1m 
+echo -e '\033[1;36;40m  
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
 		   ────█▌▀▄──▄▄──▄▀▐█────
@@ -11,8 +11,9 @@ echo -e '\033[31;40;1m
       \e[35m      ☠         Code  : Emre     ☠
 	  \e[34m☠	     Github : razeka       ☠
 	\e[32m☠ 	   İnstagram : @emre_gnddu     ☠
+	\e[32m☠           İletişim için : emregnddu@gmail.com   ☠
 	
-	\e[36m 	 ☾★ ☾★ EMRE GUNDOGDU ☾★ ☾★	
+	\e[36m 	 ☾★ ☾★ ...Emre Gündoğdu Sunar... ☾★ ☾★	
 
 \e[32m[1]\e[33mTermux Güncelle		\e[32m[12]\e[33mFindUser 
 \e[32m[2]\e[33mXerxes			\e[32m[13]\e[33mNmap
